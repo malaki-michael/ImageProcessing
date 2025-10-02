@@ -1,2 +1,4 @@
 *.npy filter=lfs diff=lfs merge=lfs -text
 *.dm4 filter=lfs diff=lfs merge=lfs -text
+4d_data/4D_data.dm4 filter=lfs diff=lfs merge=lfs -text
+4d_data/4D-STEM_1.npy_binned.npy filter=lfs diff=lfs merge=lfs -text
